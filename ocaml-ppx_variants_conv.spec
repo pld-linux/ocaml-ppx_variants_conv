@@ -51,7 +51,7 @@ używających biblioteki ppx_variants_conv.
 
 %package devel
 Summary:	Generation of accessor and iteration functions for OCaml variant types - development part
-Summary(pl.UTF-8):	Generowanie funkcji dostępowych i iterujących dla typów wariantowych w OCamlu - cześć programistyczna
+Summary(pl.UTF-8):	Generowanie funkcji dostępowych i iterujących dla typów wariantowych w OCamlu - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
